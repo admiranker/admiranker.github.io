@@ -1,12 +1,12 @@
 ---
-title: "Sanders Lab - Home"
+title: "Miranker Lab - Home"
 layout: homelay
-excerpt: "Sanders Lab at UCSF."
+excerpt: "Miranker Lab at Yale."
 sitemap: false
 permalink: /
 ---
 
-# Welcome to Sanders Lab at UCSF
+# Welcome to Miranker Lab at Yale
 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/Lab_Logo_v6c.png){: style="width: 170px; float: left;margin-right: 20px; border: 10px"}
