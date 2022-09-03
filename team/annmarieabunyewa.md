@@ -1,14 +1,13 @@
 ---
 layout: member
-title: Brooke Sheppard
-position: Postdoctoral Scholar
-handle: brookesheppard
+title: Ann-Marie Abunyewa
+position: Undergraduate Researcher
+handle:
 email: 
 twitter:
 github:
-scholar: d3w5qCkAAAAJ
-photo: brookesheppard.jpg
-ucsf: brooke.sheppard
+scholar
+photo: annmarie.jpg
 ---
 
 ### Overview
