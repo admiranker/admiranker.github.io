@@ -6,7 +6,7 @@ handle:
 email: 
 twitter:
 github:
-scholar
+scholar:
 photo: annmarie.jpg
 ---
 
