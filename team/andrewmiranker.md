@@ -1,14 +1,13 @@
 ---
 layout: member
-title: Stephan Sanders
+title: Andrew Miranker
 position: Principal Investigator
-handle: stephansanders
+handle:
 email: 
 twitter:
-github: sanderslab
-scholar: O1EuSPYAAAAJ
-photo: stephansanders.jpg
-ucsf: stephan.sanders
+github:
+scholar:
+photo: Miranker2015.jpg
 ---
 
 ### Overview
