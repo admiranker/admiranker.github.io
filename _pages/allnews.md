@@ -1,7 +1,7 @@
 ---
-title: "Sanders Lab - News"
+title: "Miranker Lab - News"
 layout: textlay
-excerpt: "Sanders Lab at UCSF."
+excerpt: "Miranker Lab at Yale."
 sitemap: false
 permalink: /allnews.html
 ---
